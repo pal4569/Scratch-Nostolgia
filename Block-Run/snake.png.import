@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Drawing.png-2d4dc3afcc6e1758ba8beae9d1e19c81.stex"
+path="res://.import/snake.png-392902cc9306a7ce4eb91101ddc71c96.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Drawing.png"
-dest_files=[ "res://.import/Drawing.png-2d4dc3afcc6e1758ba8beae9d1e19c81.stex" ]
+source_file="res://snake.png"
+dest_files=[ "res://.import/snake.png-392902cc9306a7ce4eb91101ddc71c96.stex" ]
 
 [params]
 
